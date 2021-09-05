@@ -1,2 +1,2 @@
 # Flipbook
-This is the project based on that book.
+This is the project based on book.
